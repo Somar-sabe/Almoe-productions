@@ -1,2 +1,2 @@
 # Almoe-productions
-# use axamp or any local server to make this pruject run
+# use xamp or any local server to make this project run
